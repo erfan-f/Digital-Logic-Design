@@ -18,6 +18,4 @@ This project involves designing a system to calculate the harmonic sum S_n for a
 
 Project 5&6: Restoring Divider Accelerator Project
 
-This project involves designing a Restoring Divider accelerator and interfacing it with an 8-bit bus for burst mode operation. The assignment is divided into two parts: Part 1: Divider Module Design and Part 2: 8-Bit Bus Interfacing.
-
-University of Tehran Fall 1403
+This project involves designing a Restoring Divider accelerator and interfacing it with an 8-bit bus for burst mode operation. The assignment is divided into two parts: Part 1: Divider Module Design and Part 2: 8-Bit Bus 
